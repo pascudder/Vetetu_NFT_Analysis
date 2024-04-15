@@ -5,8 +5,8 @@ Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/
 ### Prerequisites 
 
 * [Node.js](https://nodejs.org/en/) installed 
-* A valid Etherscan API key 
-* An Ethereum node such as [Infura](infura.io/) or [Alchemy](https://www.alchemy.com/) 
+* A valid Polygonscan API key 
+* A Polygon node such as [Infura](infura.io/) or [Alchemy](https://www.alchemy.com/) 
 
 ### Getting Started 
 
