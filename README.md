@@ -10,14 +10,12 @@ Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/
 
 ### Getting Started 
 
-1. Clone this repository using `git clone https://github.com/0xV4L3NT1N3/interacting-smart-contracts.git`
+1. In a terminal, run `npm install` to install the required dependencies
 
-2. In a terminal, run `npm install` to install the required dependencies
-
-3. In `script.js`, replace the `node URL` and `private key` variables with your own. 
+2. In `script.js`, replace the `node URL` and `private key` variables with your own. 
 
 You can create a free Infura/Alchemy account for node access, and generate a private key from [Metamask](https://metamask.io/)
 
 > Remember, private keys and node API keys are sensitive information, do not commit them to version control. Better yet use an [environment variable.](https://www.npmjs.com/package/dotenv) 
 
-4. Run this code using the command `node script.js`
+3. Run this code using the command `node script.js`
