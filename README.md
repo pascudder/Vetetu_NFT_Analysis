@@ -1,5 +1,5 @@
 # Read/Write Contract using ABIs
-
+*Credit to https://github.com/0xV4L3NT1N3/interacting-smart-contracts/blob/main/
 Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/read-write-contract-using-abis)
 
 ### Prerequisites 
