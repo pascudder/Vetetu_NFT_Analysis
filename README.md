@@ -1,6 +1,9 @@
 # Read/Write Contract using ABIs
-*Credit to https://github.com/0xV4L3NT1N3/interacting-smart-contracts/blob/main/
+*Credit to https://github.com/0xV4L3NT1N3/interacting-smart-contracts/blob/main/ for the smart contract interaction template.
+
 Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/read-write-contract-using-abis)
+
+This script iterates through each NFT in the VeTetu contract, saves the unlock date (unix timestamp) and LockDerivedAmount (TETU-USDC value times 10^18 decimal places). Once you get the text file outputs, you can use the .ipynb notebook in the repository to do some basic timestamp conversions and get a chart of unlock amounts and times. 
 
 ### Prerequisites 
 
