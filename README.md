@@ -1,4 +1,4 @@
-# Read/Write Contract using ABIs
+# VeTetu Analysis
 *Credit to https://github.com/0xV4L3NT1N3/interacting-smart-contracts/blob/main/ for the smart contract interaction template.
 
 Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/read-write-contract-using-abis)
