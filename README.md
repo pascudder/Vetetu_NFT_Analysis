@@ -5,6 +5,8 @@ Full article guide on [Etherscan API docs.](https://docs.etherscan.io/tutorials/
 
 This script iterates through each NFT in the VeTetu contract, saves the unlock date (unix timestamp) and LockDerivedAmount (TETU-USDC value times 10^18 decimal places). Once you get the text file outputs, you can use the .ipynb notebook in the repository to do some basic timestamp conversions and get a chart of unlock amounts and times. 
 
+Alternatively, if you don't want the hassle of running the script, you can just look at the .ipynb notebook. I'll try to update it regularly.
+
 ### Prerequisites 
 
 * [Node.js](https://nodejs.org/en/) installed 
